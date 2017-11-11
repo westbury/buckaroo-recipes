@@ -1,0 +1,22 @@
+{
+  "name": "mbed-os-example-wifi",
+  "license": "Apache-2.0",
+  "url": "https://github.com/ARMmbed/mbed-os-example-wifi",
+  "github": {
+    "owner": "ARMmbed",
+    "project": "mbed-os-example-wifi"
+  },
+  "versions": {
+    "0.1.4": {
+      "source": {
+        "url": "https://github.com/ARMmbed/mbed-os-example-wifi/archive/247db5d0d4b70b8b529f8a9f0cc6e47d3fe08320.zip",
+        "sha256": "5ed2ac26824925be8863a8e141a3bf42d4918c4451ff673a5c433bed02815f08",
+        "subPath": "mbed-os-example-wifi-247db5d0d4b70b8b529f8a9f0cc6e47d3fe08320"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/njlr/mbed-os-example-wifi/7c680f755ce5b96e980f2ead70f8d02b591e5595/BUCK",
+        "sha256": "fa8612b0afe3142cfecc63444a73d937a3a2e8e608f8bffed9e42a6316c72190"
+      }
+    }
+  }
+}
